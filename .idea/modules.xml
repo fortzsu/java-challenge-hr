@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/angry-professor/angry-professor.iml" filepath="$PROJECT_DIR$/angry-professor/angry-professor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beautiful-days-at-the-movies/beautiful-days-at-the-movies.iml" filepath="$PROJECT_DIR$/beautiful-days-at-the-movies/beautiful-days-at-the-movies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cats-and-a-mouse/cats-and-a-mouse.iml" filepath="$PROJECT_DIR$/cats-and-a-mouse/cats-and-a-mouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circular-array-rotation/circular-array-rotation.iml" filepath="$PROJECT_DIR$/circular-array-rotation/circular-array-rotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/counting-valleys/counting-valleys.iml" filepath="$PROJECT_DIR$/counting-valleys/counting-valleys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cut-the-sticks/cut-the-sticks.iml" filepath="$PROJECT_DIR$/cut-the-sticks/cut-the-sticks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-of-the-programmer/day-of-the-programmer.iml" filepath="$PROJECT_DIR$/day-of-the-programmer/day-of-the-programmer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designer-pdf-viewer/designer-pdf-viewer.iml" filepath="$PROJECT_DIR$/designer-pdf-viewer/designer-pdf-viewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duplicate-word/duplicate-word.iml" filepath="$PROJECT_DIR$/duplicate-word/duplicate-word.iml" />
+      <module fileurl="file://$PROJECT_DIR$/electronics-shop/electronics-shop.iml" filepath="$PROJECT_DIR$/electronics-shop/electronics-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/find-digits/find-digits.iml" filepath="$PROJECT_DIR$/find-digits/find-digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insertionsort1/insertionsort1.iml" filepath="$PROJECT_DIR$/insertionsort1/insertionsort1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-bigdecimal/java-bigdecimal.iml" filepath="$PROJECT_DIR$/java-bigdecimal/java-bigdecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-challenge-hr.iml" filepath="$PROJECT_DIR$/java-challenge-hr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-currency-formatter/java-currency-formatter.iml" filepath="$PROJECT_DIR$/java-currency-formatter/java-currency-formatter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-exception-handling/java-exception-handling.iml" filepath="$PROJECT_DIR$/java-exception-handling/java-exception-handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-factory/java-factory.iml" filepath="$PROJECT_DIR$/java-factory/java-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-generics/java-generics.iml" filepath="$PROJECT_DIR$/java-generics/java-generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-list/java-list.iml" filepath="$PROJECT_DIR$/java-list/java-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-primality-test/java-primality-test.iml" filepath="$PROJECT_DIR$/java-primality-test/java-primality-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-reflection-attributes/java-reflection-attributes.iml" filepath="$PROJECT_DIR$/java-reflection-attributes/java-reflection-attributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-regex/java-regex.iml" filepath="$PROJECT_DIR$/java-regex/java-regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-singleton/java-singleton.iml" filepath="$PROJECT_DIR$/java-singleton/java-singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-stack/java-stack.iml" filepath="$PROJECT_DIR$/java-stack/java-stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-string-tokens/java-string-tokens.iml" filepath="$PROJECT_DIR$/java-string-tokens/java-string-tokens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jumping-on-the-clouds/jumping-on-the-clouds.iml" filepath="$PROJECT_DIR$/jumping-on-the-clouds/jumping-on-the-clouds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jumping-on-the-clouds-revisited/jumping-on-the-clouds-revisited.iml" filepath="$PROJECT_DIR$/jumping-on-the-clouds-revisited/jumping-on-the-clouds-revisited.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library-fine/library-fine.iml" filepath="$PROJECT_DIR$/library-fine/library-fine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-syntax-checker/pattern-syntax-checker.iml" filepath="$PROJECT_DIR$/pattern-syntax-checker/pattern-syntax-checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permutation-equation/permutation-equation.iml" filepath="$PROJECT_DIR$/permutation-equation/permutation-equation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/picking-numbers/picking-numbers.iml" filepath="$PROJECT_DIR$/picking-numbers/picking-numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prime-checker/prime-checker.iml" filepath="$PROJECT_DIR$/prime-checker/prime-checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/save-the-prisoner/save-the-prisoner.iml" filepath="$PROJECT_DIR$/save-the-prisoner/save-the-prisoner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-addition-varargs/simple-addition-varargs.iml" filepath="$PROJECT_DIR$/simple-addition-varargs/simple-addition-varargs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strange-advertising/strange-advertising.iml" filepath="$PROJECT_DIR$/strange-advertising/strange-advertising.iml" />
+      <module fileurl="file://$PROJECT_DIR$/the-hurdle-race/the-hurdle-race.iml" filepath="$PROJECT_DIR$/the-hurdle-race/the-hurdle-race.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utopian-tree/utopian-tree.iml" filepath="$PROJECT_DIR$/utopian-tree/utopian-tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/valid-username-checker/valid-username-checker.iml" filepath="$PROJECT_DIR$/valid-username-checker/valid-username-checker.iml" />
+    </modules>
+  </component>
+</project>
