@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/angry-professor/angry-professor.iml" filepath="$PROJECT_DIR$/angry-professor/angry-professor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/append-and-delete/append-and-delete.iml" filepath="$PROJECT_DIR$/append-and-delete/append-and-delete.iml" />
       <module fileurl="file://$PROJECT_DIR$/beautiful-days-at-the-movies/beautiful-days-at-the-movies.iml" filepath="$PROJECT_DIR$/beautiful-days-at-the-movies/beautiful-days-at-the-movies.iml" />
       <module fileurl="file://$PROJECT_DIR$/cats-and-a-mouse/cats-and-a-mouse.iml" filepath="$PROJECT_DIR$/cats-and-a-mouse/cats-and-a-mouse.iml" />
       <module fileurl="file://$PROJECT_DIR$/circular-array-rotation/circular-array-rotation.iml" filepath="$PROJECT_DIR$/circular-array-rotation/circular-array-rotation.iml" />
