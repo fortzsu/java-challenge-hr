@@ -35,6 +35,7 @@
       <module fileurl="file://$PROJECT_DIR$/permutation-equation/permutation-equation.iml" filepath="$PROJECT_DIR$/permutation-equation/permutation-equation.iml" />
       <module fileurl="file://$PROJECT_DIR$/picking-numbers/picking-numbers.iml" filepath="$PROJECT_DIR$/picking-numbers/picking-numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/prime-checker/prime-checker.iml" filepath="$PROJECT_DIR$/prime-checker/prime-checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repeated-string/repeated-string.iml" filepath="$PROJECT_DIR$/repeated-string/repeated-string.iml" />
       <module fileurl="file://$PROJECT_DIR$/save-the-prisoner/save-the-prisoner.iml" filepath="$PROJECT_DIR$/save-the-prisoner/save-the-prisoner.iml" />
       <module fileurl="file://$PROJECT_DIR$/sherlock-and-squares/sherlock-and-squares.iml" filepath="$PROJECT_DIR$/sherlock-and-squares/sherlock-and-squares.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple-addition-varargs/simple-addition-varargs.iml" filepath="$PROJECT_DIR$/simple-addition-varargs/simple-addition-varargs.iml" />
