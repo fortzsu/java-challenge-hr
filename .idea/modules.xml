@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/acm-icpc-team/acm-icpc-team.iml" filepath="$PROJECT_DIR$/acm-icpc-team/acm-icpc-team.iml" />
       <module fileurl="file://$PROJECT_DIR$/angry-professor/angry-professor.iml" filepath="$PROJECT_DIR$/angry-professor/angry-professor.iml" />
       <module fileurl="file://$PROJECT_DIR$/append-and-delete/append-and-delete.iml" filepath="$PROJECT_DIR$/append-and-delete/append-and-delete.iml" />
       <module fileurl="file://$PROJECT_DIR$/beautiful-days-at-the-movies/beautiful-days-at-the-movies.iml" filepath="$PROJECT_DIR$/beautiful-days-at-the-movies/beautiful-days-at-the-movies.iml" />
