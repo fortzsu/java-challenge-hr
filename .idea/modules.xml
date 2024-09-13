@@ -35,6 +35,7 @@
       <module fileurl="file://$PROJECT_DIR$/jumping-on-the-clouds/jumping-on-the-clouds.iml" filepath="$PROJECT_DIR$/jumping-on-the-clouds/jumping-on-the-clouds.iml" />
       <module fileurl="file://$PROJECT_DIR$/jumping-on-the-clouds-revisited/jumping-on-the-clouds-revisited.iml" filepath="$PROJECT_DIR$/jumping-on-the-clouds-revisited/jumping-on-the-clouds-revisited.iml" />
       <module fileurl="file://$PROJECT_DIR$/library-fine/library-fine.iml" filepath="$PROJECT_DIR$/library-fine/library-fine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minimum-distances/minimum-distances.iml" filepath="$PROJECT_DIR$/minimum-distances/minimum-distances.iml" />
       <module fileurl="file://$PROJECT_DIR$/pattern-syntax-checker/pattern-syntax-checker.iml" filepath="$PROJECT_DIR$/pattern-syntax-checker/pattern-syntax-checker.iml" />
       <module fileurl="file://$PROJECT_DIR$/permutation-equation/permutation-equation.iml" filepath="$PROJECT_DIR$/permutation-equation/permutation-equation.iml" />
       <module fileurl="file://$PROJECT_DIR$/picking-numbers/picking-numbers.iml" filepath="$PROJECT_DIR$/picking-numbers/picking-numbers.iml" />
