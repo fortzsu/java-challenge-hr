@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/equality-in-a-array/equality-in-a-array.iml" filepath="$PROJECT_DIR$/equality-in-a-array/equality-in-a-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/fair-rations/fair-rations.iml" filepath="$PROJECT_DIR$/fair-rations/fair-rations.iml" />
       <module fileurl="file://$PROJECT_DIR$/find-digits/find-digits.iml" filepath="$PROJECT_DIR$/find-digits/find-digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/find-the-median/find-the-median.iml" filepath="$PROJECT_DIR$/find-the-median/find-the-median.iml" />
       <module fileurl="file://$PROJECT_DIR$/funny-string/funny-string.iml" filepath="$PROJECT_DIR$/funny-string/funny-string.iml" />
       <module fileurl="file://$PROJECT_DIR$/gem-stones/gem-stones.iml" filepath="$PROJECT_DIR$/gem-stones/gem-stones.iml" />
       <module fileurl="file://$PROJECT_DIR$/halloween-sale/halloween-sale.iml" filepath="$PROJECT_DIR$/halloween-sale/halloween-sale.iml" />
@@ -45,6 +46,7 @@
       <module fileurl="file://$PROJECT_DIR$/library-fine/library-fine.iml" filepath="$PROJECT_DIR$/library-fine/library-fine.iml" />
       <module fileurl="file://$PROJECT_DIR$/lisa-workbook/lisa-workbook.iml" filepath="$PROJECT_DIR$/lisa-workbook/lisa-workbook.iml" />
       <module fileurl="file://$PROJECT_DIR$/lonely-integer/lonely-integer.iml" filepath="$PROJECT_DIR$/lonely-integer/lonely-integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manasa-and-stones/manasa-and-stones.iml" filepath="$PROJECT_DIR$/manasa-and-stones/manasa-and-stones.iml" />
       <module fileurl="file://$PROJECT_DIR$/mars-exploration/mars-exploration.iml" filepath="$PROJECT_DIR$/mars-exploration/mars-exploration.iml" />
       <module fileurl="file://$PROJECT_DIR$/minimum-distances/minimum-distances.iml" filepath="$PROJECT_DIR$/minimum-distances/minimum-distances.iml" />
       <module fileurl="file://$PROJECT_DIR$/pattern-syntax-checker/pattern-syntax-checker.iml" filepath="$PROJECT_DIR$/pattern-syntax-checker/pattern-syntax-checker.iml" />
@@ -52,6 +54,7 @@
       <module fileurl="file://$PROJECT_DIR$/picking-numbers/picking-numbers.iml" filepath="$PROJECT_DIR$/picking-numbers/picking-numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/prime-checker/prime-checker.iml" filepath="$PROJECT_DIR$/prime-checker/prime-checker.iml" />
       <module fileurl="file://$PROJECT_DIR$/repeated-string/repeated-string.iml" filepath="$PROJECT_DIR$/repeated-string/repeated-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runningtime/runningtime.iml" filepath="$PROJECT_DIR$/runningtime/runningtime.iml" />
       <module fileurl="file://$PROJECT_DIR$/save-the-prisoner/save-the-prisoner.iml" filepath="$PROJECT_DIR$/save-the-prisoner/save-the-prisoner.iml" />
       <module fileurl="file://$PROJECT_DIR$/sherlock-and-squares/sherlock-and-squares.iml" filepath="$PROJECT_DIR$/sherlock-and-squares/sherlock-and-squares.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple-addition-varargs/simple-addition-varargs.iml" filepath="$PROJECT_DIR$/simple-addition-varargs/simple-addition-varargs.iml" />
