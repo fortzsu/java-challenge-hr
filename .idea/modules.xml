@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/circular-array-rotation/circular-array-rotation.iml" filepath="$PROJECT_DIR$/circular-array-rotation/circular-array-rotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/climbing-the-leaderboard_TIMEOUT/climbing-the-leaderboard_TIMEOUT.iml" filepath="$PROJECT_DIR$/climbing-the-leaderboard_TIMEOUT/climbing-the-leaderboard_TIMEOUT.iml" />
       <module fileurl="file://$PROJECT_DIR$/counting-valleys/counting-valleys.iml" filepath="$PROJECT_DIR$/counting-valleys/counting-valleys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/countingsort1/countingsort1.iml" filepath="$PROJECT_DIR$/countingsort1/countingsort1.iml" />
       <module fileurl="file://$PROJECT_DIR$/cut-the-sticks/cut-the-sticks.iml" filepath="$PROJECT_DIR$/cut-the-sticks/cut-the-sticks.iml" />
       <module fileurl="file://$PROJECT_DIR$/day-of-the-programmer/day-of-the-programmer.iml" filepath="$PROJECT_DIR$/day-of-the-programmer/day-of-the-programmer.iml" />
       <module fileurl="file://$PROJECT_DIR$/designer-pdf-viewer/designer-pdf-viewer.iml" filepath="$PROJECT_DIR$/designer-pdf-viewer/designer-pdf-viewer.iml" />
@@ -53,6 +54,7 @@
       <module fileurl="file://$PROJECT_DIR$/permutation-equation/permutation-equation.iml" filepath="$PROJECT_DIR$/permutation-equation/permutation-equation.iml" />
       <module fileurl="file://$PROJECT_DIR$/picking-numbers/picking-numbers.iml" filepath="$PROJECT_DIR$/picking-numbers/picking-numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/prime-checker/prime-checker.iml" filepath="$PROJECT_DIR$/prime-checker/prime-checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quicksort1/quicksort1.iml" filepath="$PROJECT_DIR$/quicksort1/quicksort1.iml" />
       <module fileurl="file://$PROJECT_DIR$/repeated-string/repeated-string.iml" filepath="$PROJECT_DIR$/repeated-string/repeated-string.iml" />
       <module fileurl="file://$PROJECT_DIR$/runningtime/runningtime.iml" filepath="$PROJECT_DIR$/runningtime/runningtime.iml" />
       <module fileurl="file://$PROJECT_DIR$/save-the-prisoner/save-the-prisoner.iml" filepath="$PROJECT_DIR$/save-the-prisoner/save-the-prisoner.iml" />
